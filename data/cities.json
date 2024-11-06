@@ -59,42 +59,6 @@
         "lng": 37.6173
       },
       "id": "98443199"
-    },
-    {
-      "id": "e222",
-      "cityName": "Coswig",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-11-06T08:39:23.346Z",
-      "notes": "",
-      "position": {
-        "lat": "51.97134580885172",
-        "lng": "12.502441406250002"
-      }
-    },
-    {
-      "id": "3449",
-      "cityName": "Quincy-le-Vicomte",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-11-06T08:41:33.804Z",
-      "notes": "yoo",
-      "position": {
-        "lat": "47.62097541515849",
-        "lng": "4.218750000000001"
-      }
-    },
-    {
-      "id": "72ef",
-      "cityName": "Quincy-le-Vicomte",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-11-06T09:55:55.227Z",
-      "notes": "",
-      "position": {
-        "lat": "47.62097541515849",
-        "lng": "4.218750000000001"
-      }
     }
   ]
 }
