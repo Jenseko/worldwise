@@ -7,7 +7,7 @@ function User() {
   console.log(user);
   const navigate = useNavigate();
 
-  function handleClick() {
+    function handleClick() {
     logout();
     navigate("/");
   }
